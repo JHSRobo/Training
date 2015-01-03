@@ -1,2 +1,4 @@
 echo "Updating the Repo!"
-git pull https://github.com/JHSRobo/Training.git
+git fetch upstream
+git checkout Development
+git merge upstream/Development
