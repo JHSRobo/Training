@@ -2,6 +2,10 @@ This is my first edit
 
 Second edit
 
+<<<<<<< HEAD
 Third edit
 
 Gavin was here. Writing stupid text. 
+=======
+lolol
+>>>>>>> pr/4
