@@ -1,4 +1,0 @@
-https://www.atlassian.com/git/tutorials/
-
-https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
-
