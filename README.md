@@ -22,7 +22,7 @@ FOLLOW:
 
 ### Launching/Running
 
-Follow Test Bench Setup Steps if Running on Test Bench
+Follow Test Bench Setup Steps if Running on Test Bench.
 * https://docs.google.com/document/d/1srYgNUE4k3DVHkUv1TwUJawfUWw6kGkveDhAvulWMZ0/edit#heading=h.wyzbdb7zgifi
 
 Locally:
